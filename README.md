@@ -1,16 +1,41 @@
-## Hi there 👋
+### Hi there 👋 I'm Berlin Samuel
 
-<!--
-**Berlin-Samuel/Berlin-Samuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Senior QA Engineer** | 🔍 Automation Specialist  
+💡 Passionate about testing, learning, and contributing to quality software  
+🚀 Skilled in Java, Selenium, Cucumber, REST API, SQL, CI/CD  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with me:
+
+<p align="left">
+  <a href="mailto:rberlinsamuel@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/berlinsamuelr" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://Berlin-Samuel.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 🔧 Tech Stack
+
+- 🧪 Java | Selenium | TestNG | JUnit | Cucumber  
+- 🌐 REST Assured | Postman | Swagger  
+- 💻 Git | Maven | Jenkins | GitHub Actions  
+- 📊 MySQL | Oracle | SQLite  
+- ☁️ Basic AWS | Docker | CI/CD Pipelines  
+
+---
+
+### 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Berlin-Samuel&show_icons=true&theme=tokyonight)
+
+---
+
+*Let’s automate excellence together!*

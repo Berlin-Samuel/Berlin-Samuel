@@ -32,10 +32,8 @@
 
 ---
 
-### 📊 GitHub Statistics
+## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Berlin-Samuel&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![Berlin Samuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Berlin-Samuel&show_icons=true&theme=tokyonight)
 
----
-
-🚀 *Let’s automate excellence together!*
+*Let’s automate excellence together!*

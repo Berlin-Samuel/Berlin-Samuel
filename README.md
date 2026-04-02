@@ -49,11 +49,12 @@
 
 ---
 
-## 🏆 Achievements
+## 📊 Contribution Summary
 
-![Followers](https://img.shields.io/github/followers/Berlin-Samuel?style=social)
-![Stars](https://img.shields.io/github/stars/Berlin-Samuel?style=social)
-![Repos](https://img.shields.io/badge/Public%20Repos-{{REPO_COUNT}}-blue)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Berlin-Samuel&theme=radical"/>
+</p>
+
 ---
 
 ## 📈 Contribution Graph

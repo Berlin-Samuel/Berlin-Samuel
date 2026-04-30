@@ -35,7 +35,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Berlin-Samuel&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Berlin-Samuel&hide_title=true&show_icons=true&theme=radical" height="170"/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Berlin-Samuel&layout=compact&theme=radical" height="170"/>
 </p>
 

@@ -1,42 +1,50 @@
-### Hi there 👋 I'm Berlin Samuel
+<h2 align="center">Hi 👋</h2>
 
-💻 **Senior QA Engineer** | 🔍 Automation Specialist  
-💡 Passionate about testing, learning, and contributing to quality software  
-🚀 Skilled in Java, Selenium, Cucumber, REST API, SQL, CI/CD  
+<p align="center">
+  💻 <b>Senior QA Engineer</b> | 🔍 Automation Specialist <br/>
+  🚀 Java • Selenium • API Testing • CI/CD <br/>
+  💡 Building reliable and scalable test automation frameworks
+</p>
 
 ---
 
-### 📫 Connect with me:
+## 🌐 Connect with Me
 
-<p align="left">
-  <a href="mailto:rberlinsamuel@gmail.com" target="_blank">
+<p align="center">
+  <a href="mailto:rberlinsamuel@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/berlinsamuelr" target="_blank">
+  <a href="https://www.linkedin.com/in/berlinsamuelr">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://Berlin-Samuel.github.io" target="_blank">
+  <a href="https://Berlin-Samuel.github.io">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 🔧 Tech Stack
+## 🔧 Tech Stack
 
-- 🧪 Java | Selenium | TestNG | JUnit | Cucumber  
-- 🌐 REST Assured | Postman | Swagger  
-- 💻 Git | Maven | Jenkins | GitHub Actions  
-- 📊 MySQL | Oracle | SQLite  
-- ☁️ Basic AWS | Docker | CI/CD Pipelines  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,selenium,maven,git,github,docker,jenkins,mysql,postman" />
+</p>
+
+---
+
+## 🚀 Featured Work
+
+🔹 **Automation Framework** — Selenium + TestNG (POM based)  
+🔹 **API Testing Framework** — Rest Assured with reusable utilities  
+🔹 **CI/CD Pipeline** — Jenkins + Docker integration  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Berlin-Samuel&hide_title=true&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Berlin-Samuel&layout=compact&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Berlin-Samuel&hide_title=true&hide_border=true&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berlin-Samuel&layout=compact&hide_border=true&theme=radical" height="165"/>
 </p>
 
 ---
@@ -44,15 +52,7 @@
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Berlin-Samuel&theme=radical" />
-</p>
-
----
-
-## 📊 Contribution Summary
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Berlin-Samuel&theme=radical"/>
+  <img src="https://streak-stats.demolab.com?user=Berlin-Samuel&theme=radical&hide_border=true"/>
 </p>
 
 ---
@@ -60,9 +60,11 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Berlin-Samuel&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Berlin-Samuel&hide_title=true&hide_border=true&theme=react-dark"/>
 </p>
 
 ---
 
-🚀 *Let’s automate excellence together!*
+<p align="center">
+  ⚡ <b>Consistency + Automation = Quality Software</b>
+</p>
